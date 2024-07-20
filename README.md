@@ -93,7 +93,7 @@ Welcome to my GitHub repository for the Software Development Summer Internship 2
 
 ## Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/parth-nakum-337aab227/
+- LinkedIn: [https://www.linkedin.com/in/parth-nakum-337aab227]
 - Email: [parthnakum021@gmail.com]
 
 Thank you!
